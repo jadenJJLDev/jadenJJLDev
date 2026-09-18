@@ -2,7 +2,7 @@
 ##  Projects
 - Game and game framework
 - Competitive programming editor
-- Baulko Defenders (released)
+- School Defenders (released)
 - Text-based RPG (submitted)
 
 ## Languages
