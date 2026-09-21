@@ -1,6 +1,6 @@
 # Hi, I'm Jaden from JJL
 ##  Projects
-- Game and game framework
+- Game and code-first game engine
 - Competitive programming editor
 - School Defenders (released)
 - Text-based RPG (submitted)
