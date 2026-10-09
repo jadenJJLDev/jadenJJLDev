@@ -1,4 +1,4 @@
-# Hi, I'm Jaden from JJL
+# Hi
 ##  Projects
 - Game and code-first game engine (working)
 - Competitive programming editor (working)
